@@ -1,0 +1,20 @@
+# Rendered images live in GitHub Releases, not the repo
+*.png
+*.jpg
+*.jpeg
+*.webp
+tartan_images*/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
